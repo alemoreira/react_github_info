@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "GitHub Info",
+  "name": "Informações do Usuário e seus Repositórios do GitHub",
   "icons": [
     {
       "src": "favicon.ico",
